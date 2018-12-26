@@ -1,0 +1,6 @@
+2, update-price, restaurant3, item1, 50
+5, place-order, order2, item1, item2, item3
+-4, place-order, order1, item1, item3
+5, update-price, restaurant1, item1, -20
+6, update-price, restaurant3, item4, 30
+5, place-order, order3, item6, item5
